@@ -1,4 +1,4 @@
-
+'use client'
 import { Task } from "@/lib/generated/prisma";
     import {
   Table,
