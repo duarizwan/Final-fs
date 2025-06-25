@@ -11,9 +11,7 @@
 // } from "@/components/ui/table"
 // import { getTasks } from "../actions/create";
 // import { Button } from "@/components/ui/button";
-// import Link from "next/link";
 // import CreateForm from "../create/page";
-// import { Trash2 } from "lucide-react";
 // // import { Alert } from "@/components/alert";
 
 // const tasks = await getTasks();
